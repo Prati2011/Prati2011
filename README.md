@@ -18,6 +18,16 @@ I'm a **cybersecurity analyst** with a passion for **securing web and API applic
 ---
 
 ## 🛠️ **Skills**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat&logo=javascript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-EC1C24?style=flat&logo=burp-suite&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/-Wireshark-9B8F1E?style=flat&logo=wireshark&logoColor=white)  
+![Nmap](https://img.shields.io/badge/-Nmap-00A300?style=flat&logo=nmap&logoColor=white)  
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)  
+![Checkmarx](https://img.shields.io/badge/-Checkmarx-5E62B3?style=flat&logo=checkmarx&logoColor=white)
+
 - **Cybersecurity Tools**:  
   🔧 **Burp Suite**, **Postman**, **SQLmap**, **OWASP ZAP**, **Wireshark**, **Nikto**, **SSLScan**, **Nmap**  
 
