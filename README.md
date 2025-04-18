@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there! 👋 I'm Pratiksha Palve
 
-<!--
-**Prati2011/Prati2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Cyber Security Analyst** | **Certified Ethical Hacker (CEH)**  
+I'm a cybersecurity analyst passionate about securing web and API applications, identifying vulnerabilities, and implementing robust countermeasures to protect digital assets. With hands-on experience in vulnerability assessment, penetration testing, and threat mitigation, I aim to continuously enhance organizational security and safeguard critical infrastructure.
 
-Here are some ideas to get you started:
+Currently, I'm working at **MarkGenic Software**, where I contribute to strengthening cybersecurity practices and identifying vulnerabilities to improve web and API security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Interests  
+- Web & API Security  
+- Threat Analysis & Vulnerability Assessments  
+- Penetration Testing  
+- Cybersecurity Best Practices  
+- Security Automation  
+- Mobile Security & Networking Tools
+
+---
+
+## 🛠️ Skills
+- **Cybersecurity Tools**: Burp Suite, Postman, SQLmap, OWASP ZAP, Wireshark, Nikto, SSLScan, Nmap  
+- **Programming Languages**: Python, JavaScript, HTML, CSS  
+- **SAST Tools**: SonarQube, Checkmarx  
+- **Other**: Vulnerability Assessments, Penetration Testing, Risk Mitigation, Incident Response
+
+---
+
+## 🌐 Socials  
+- [LinkedIn](https://www.linkedin.com/in/pratiksha-palve-793591220 )  
+
+✉️ **Email**: pratikshapalve1120@gmail.com
+
+---
+
+## 📈 GitHub Stats  
+![Pratiksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikshapalve&show_icons=true&count_private=true&hide=prs&theme=radical)
