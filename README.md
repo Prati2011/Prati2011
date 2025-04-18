@@ -70,11 +70,6 @@ I'm a **cybersecurity analyst** with a passion for **securing web and API applic
 
 ---
 
-### 📢 **Fun Fact**  
-I’m also passionate about **learning new security tools** and finding ways to stay ahead of emerging threats in the ever-changing landscape of **cybersecurity**! 🔐
-
----
-
 #### ✨ **Let’s Connect!**
 Feel free to reach out if you'd like to discuss **cybersecurity**, **web security**, or **emerging technologies** in the field! 🚀
 
