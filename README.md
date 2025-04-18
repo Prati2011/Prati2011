@@ -3,7 +3,7 @@
 💻 **Cyber Security Analyst** | **Certified Ethical Hacker (CEH)**  
 I'm a **cybersecurity analyst** with a passion for **securing web and API applications** and **identifying vulnerabilities** to protect digital assets. With hands-on experience in **vulnerability assessment**, **penetration testing**, and **threat mitigation**, I aim to strengthen cybersecurity practices and safeguard critical infrastructure.  
 
-🔐 **Currently at** [**MarkGenic Software**](#), where I contribute to enhancing web and API security, improving vulnerability detection, and implementing robust cybersecurity countermeasures.
+🔐 **Currently at** **MarkGenic Software**, where I contribute to enhancing web and API security, improving vulnerability detection, and implementing robust cybersecurity countermeasures.
 
 ---
 
