@@ -35,7 +35,7 @@ I'm a **cybersecurity analyst** with a passion for **securing web and API applic
 
 ## 🌐 **Socials**  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratiksha-palve-793591220)
-- 
+  
   
 
 📧 **Email**: pratikshapalve1120@gmail.com
