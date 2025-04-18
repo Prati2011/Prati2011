@@ -33,7 +33,7 @@ I'm a **cybersecurity analyst** with a passion for **securing web and API applic
 ---
 
 ## 🌐 **Socials**  
-- [**LinkedIn**]((https://www.linkedin.com/in/pratiksha-palve-793591220)
+- [**LinkedIn**](https://www.linkedin.com/in/pratiksha-palve-793591220)
   
 
 📧 **Email**: pratikshapalve1120@gmail.com
